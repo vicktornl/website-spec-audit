@@ -1,0 +1,2 @@
+[console_scripts]
+website-spec-audit = website_spec_audit.cli:main
